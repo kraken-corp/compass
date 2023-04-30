@@ -2,6 +2,8 @@ import cv2
 import numpy as np
 from PIL import Image
 import json
+import logging
+
 
 def match_island(input_image_path):
     # Create a dictionary to store the coordinates of each island
@@ -10,6 +12,7 @@ def match_island(input_image_path):
     # Load the islands.json file into memory
     with open('/Users/alvaroscheid/Documents/cds-snc/compass/api/utils/islands.json') as f:
         islands = json.load(f)
+        logging.debug(islands)
 
     # Iterate over the dictionary and load the images into memory from island_images folder
     island_images = {}
@@ -36,6 +39,7 @@ def match_island(input_image_path):
 
         # Compare the input image to the current island image using mean squared error
         score = cv2.matchTemplate(island_image, input_array, cv2.TM_SQDIFF_NORMED)
+        logging.debug(f"island_name: {island_name}, Score: {score}")
         min_score, _, _, _ = cv2.minMaxLoc(score)
 
         # Update the best match if the current island image has a lower score (i.e., closer match)
@@ -49,6 +53,7 @@ def match_island(input_image_path):
     print(best_match)
     return best_match
 
-
+if __name__ == '__main__':
+    match_island('/Users/alvaroscheid/Documents/cds-snc/compass/api/tests/test1.png')
 
 
