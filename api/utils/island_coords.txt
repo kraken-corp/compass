@@ -1,0 +1,90 @@
+Ancient Spire Outpost : Q17
+Cannon Cove : G10
+Crescent Isle : B9
+Crook's Hollow : M16
+Dagger Tooth Outpost : M8
+Devil's Ridge : P19
+Discovery Ridge : E17
+Fort Of The Damned : L14
+Galleon's Grave Outpost : R8
+Golden Sands Outpost : D10
+Hidden Spring Keep : I8
+Keel Haul Fort : C6
+Kraken Watchtower : L6
+Kraken's Fall : R12
+Lone Cove : H6
+Lookout Point : I20
+Lost Gold Fort : H17
+Marauder's Arch : Q3
+Mermaid's Hideaway : B13
+Old Faithful Isle : M4
+Plunder Outpost : J18
+Plunder Valley : G16
+Sailor's Knot Stronghold : E14
+Sanctuary Outpost : F7
+Shark Bait Cove : H19
+Shark Fin Camp : P5
+Shipwreck Bay : M10
+Skull Keep : P9
+Smugglers' Bay : F3
+The Crooked Masts : O11
+The Crow's Nest Fortress : O17
+The Reaper's Hideout : I12
+The Sunken Grove : P7
+Thieves' Haven : L20
+Wanderers Refuge : F12
+Barnacle Cay : O15
+Black Sand Atoll : O3
+Black Water Enclave : R5
+Blind Man's Lagoon : N6
+Booty Isle : K20
+Boulder Cay : G5
+Castaway Isle : K14
+Chicken Isle : I16
+Cutlass Cay : M18
+Fools Lagoon : I14
+Isle of Last Words : O9
+Lagoon of Whispers : D12
+Liar's Backbone : S11
+Lonely Isle : G8
+Mutineer Rock : N19
+Old Salts Atoll : F18
+Paradise Spring : L17
+Picaroon Palms : I4
+Plunderer's Plight : Q6
+Rapier Cay : D8
+Rum Runner Isle : H9
+Sailor's Bounty : C4
+Salty Sands : G4
+Sandy Shallows : D5
+Scurvy Isley : K4
+Sea Dog's Rest : C11
+Shark Tooth Key : P13
+Shiver Retreat : Q11
+Snake Island : K16
+Tri-Rock Isle : R10
+Twin Groves : H11
+Ashen Reaches : V23
+Brimstone Rock : Y18
+Cinder Islet : U14
+Cursewater Shores : Y13
+Fetcher's Rest : V12
+Flame's End : V19
+Flintlock Peninsula : W14
+Glowstone Cay : Z18
+Magma's Tide : Y20
+Molten Sands Fortress : Z11
+Morrow's Peak Outpost : V17
+Roaring Sands : U21
+Ruby's Fall : Y16
+Scorched Pass : X11
+The Devil's Thirst : W21
+The Forsaken Brink : U16
+Brian's Bazaar : Y12
+Roaring Traders : U20
+Stephen's Spoils : L15
+The Finest Trading Post : F17
+The North Star Seapost : H10
+The Spoils of Plenty Store : B7
+The Wild Treasure Store : O4
+Three Paces East Seapost : S9
