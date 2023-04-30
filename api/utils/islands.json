@@ -1,0 +1,452 @@
+{
+    "Ancient Spire Outpost": {
+      "Name": "Ancient Spire Outpost",
+      "Coords": "Q17",
+      "Image": "island_images/Ancient Spire Outpost.png"
+    },
+    "Cannon Cove": {
+      "Name": "Cannon Cove",
+      "Coords": "G10",
+      "Image": "island_images/Cannon Cove.png"
+    },
+    "Crescent Isle": {
+      "Name": "Crescent Isle",
+      "Coords": "B9",
+      "Image": "island_images/Crescent Isle.png"
+    },
+    "Crook's Hollow": {
+      "Name": "Crook's Hollow",
+      "Coords": "M16",
+      "Image": "island_images/Crook's Hollow.png"
+    },
+    "Dagger Tooth Outpost": {
+      "Name": "Dagger Tooth Outpost",
+      "Coords": "M8",
+      "Image": "island_images/Dagger Tooth Outpost.png"
+    },
+    "Devil's Ridge": {
+      "Name": "Devil's Ridge",
+      "Coords": "P19",
+      "Image": "island_images/Devil's Ridge.png"
+    },
+    "Discovery Ridge": {
+      "Name": "Discovery Ridge",
+      "Coords": "E17",
+      "Image": "island_images/Discovery Ridge.png"
+    },
+    "Fort Of The Damned": {
+      "Name": "Fort Of The Damned",
+      "Coords": "L14",
+      "Image": "island_images/Fort Of The Damned.png"
+    },
+    "Galleon's Grave Outpost": {
+      "Name": "Galleon's Grave Outpost",
+      "Coords": "R8",
+      "Image": "island_images/Galleon's Grave Outpost.png"
+    },
+    "Golden Sands Outpost": {
+      "Name": "Golden Sands Outpost",
+      "Coords": "D10",
+      "Image": "island_images/Golden Sands Outpost.png"
+    },
+    "Hidden Spring Keep": {
+      "Name": "Hidden Spring Keep",
+      "Coords": "I8",
+      "Image": "island_images/Hidden Spring Keep.png"
+    },
+    "Keel Haul Fort": {
+      "Name": "Keel Haul Fort",
+      "Coords": "C6",
+      "Image": "island_images/Keel Haul Fort.png"
+    },
+    "Kraken Watchtower": {
+      "Name": "Kraken Watchtower",
+      "Coords": "L6",
+      "Image": "island_images/Kraken Watchtower.png"
+    },
+    "Kraken's Fall": {
+      "Name": "Kraken's Fall",
+      "Coords": "R12",
+      "Image": "island_images/Kraken's Fall.png"
+    },
+    "Lone Cove": {
+      "Name": "Lone Cove",
+      "Coords": "H6",
+      "Image": "island_images/Lone Cove.png"
+    },
+    "Lookout Point": {
+      "Name": "Lookout Point",
+      "Coords": "I20",
+      "Image": "island_images/Lookout Point.png"
+    },
+    "Lost Gold Fort": {
+      "Name": "Lost Gold Fort",
+      "Coords": "H17",
+      "Image": "island_images/Lost Gold Fort.png"
+    },
+    "Marauder's Arch": {
+      "Name": "Marauder's Arch",
+      "Coords": "Q3",
+      "Image": "island_images/Marauder's Arch.png"
+    },
+    "Mermaid's Hideaway": {
+      "Name": "Mermaid's Hideaway",
+      "Coords": "B13",
+      "Image": "island_images/Mermaid's Hideaway.png"
+    },
+    "Old Faithful Isle": {
+      "Name": "Old Faithful Isle",
+      "Coords": "M4",
+      "Image": "island_images/Old Faithful Isle.png"
+    },
+    "Plunder Outpost": {
+      "Name": "Plunder Outpost",
+      "Coords": "J18",
+      "Image": "island_images/Plunder Outpost.png"
+    },
+    "Plunder Valley": {
+      "Name": "Plunder Valley",
+      "Coords": "G16",
+      "Image": "island_images/Plunder Valley.png"
+    },
+    "Sailor's Knot Stronghold": {
+      "Name": "Sailor's Knot Stronghold",
+      "Coords": "E14",
+      "Image": "island_images/Sailor's Knot Stronghold.png"
+    },
+    "Sanctuary Outpost": {
+      "Name": "Sanctuary Outpost",
+      "Coords": "F7",
+      "Image": "island_images/Sanctuary Outpost.png"
+    },
+    "Shark Bait Cove": {
+      "Name": "Shark Bait Cove",
+      "Coords": "H19",
+      "Image": "island_images/Shark Bait Cove.png"
+    },
+    "Shark Fin Camp": {
+      "Name": "Shark Fin Camp",
+      "Coords": "P5",
+      "Image": "island_images/Shark Fin Camp.png"
+    },
+    "Shipwreck Bay": {
+      "Name": "Shipwreck Bay",
+      "Coords": "M10",
+      "Image": "island_images/Shipwreck Bay.png"
+    },
+    "Skull Keep": {
+      "Name": "Skull Keep",
+      "Coords": "P9",
+      "Image": "island_images/Skull Keep.png"
+    },
+    "Smugglers' Bay": {
+      "Name": "Smugglers' Bay",
+      "Coords": "F3",
+      "Image": "island_images/Smugglers' Bay.png"
+    },
+    "The Crooked Masts": {
+      "Name": "The Crooked Masts",
+      "Coords": "O11",
+      "Image": "island_images/The Crooked Masts.png"
+    },
+    "The Crow's Nest Fortress": {
+      "Name": "The Crow's Nest Fortress",
+      "Coords": "O17",
+      "Image": "island_images/The Crow's Nest Fortress.png"
+    },
+    "The Reaper's Hideout": {
+      "Name": "The Reaper's Hideout",
+      "Coords": "I12",
+      "Image": "island_images/The Reaper's Hideout.png"
+    },
+    "The Sunken Grove": {
+      "Name": "The Sunken Grove",
+      "Coords": "P7",
+      "Image": "island_images/The Sunken Grove.png"
+    },
+    "Thieves' Haven": {
+      "Name": "Thieves' Haven",
+      "Coords": "L20",
+      "Image": "island_images/Thieves' Haven.png"
+    },
+    "Wanderers Refuge": {
+      "Name": "Wanderers Refuge",
+      "Coords": "F12",
+      "Image": "island_images/Wanderers Refuge.png"
+    },
+    "Barnacle Cay": {
+      "Name": "Barnacle Cay",
+      "Coords": "O15",
+      "Image": "island_images/Barnacle Cay.png"
+    },
+    "Black Sand Atoll": {
+      "Name": "Black Sand Atoll",
+      "Coords": "O3",
+      "Image": "island_images/Black Sand Atoll.png"
+    },
+    "Black Water Enclave": {
+      "Name": "Black Water Enclave",
+      "Coords": "R5",
+      "Image": "island_images/Black Water Enclave.png"
+    },
+    "Blind Man's Lagoon": {
+      "Name": "Blind Man's Lagoon",
+      "Coords": "N6",
+      "Image": "island_images/Blind Man's Lagoon.png"
+    },
+    "Booty Isle": {
+      "Name": "Booty Isle",
+      "Coords": "K20",
+      "Image": "island_images/Booty Isle.png"
+    },
+    "Boulder Cay": {
+      "Name": "Boulder Cay",
+      "Coords": "G5",
+      "Image": "island_images/Boulder Cay.png"
+    },
+    "Castaway Isle": {
+      "Name": "Castaway Isle",
+      "Coords": "K14",
+      "Image": "island_images/Castaway Isle.png"
+    },
+    "Chicken Isle": {
+      "Name": "Chicken Isle",
+      "Coords": "I16",
+      "Image": "island_images/Chicken Isle.png"
+    },
+    "Cutlass Cay": {
+      "Name": "Cutlass Cay",
+      "Coords": "M18",
+      "Image": "island_images/Cutlass Cay.png"
+    },
+    "Fools Lagoon": {
+      "Name": "Fools Lagoon",
+      "Coords": "I14",
+      "Image": "island_images/Fools Lagoon.png"
+    },
+    "Isle of Last Words": {
+      "Name": "Isle of Last Words",
+      "Coords": "O9",
+      "Image": "island_images/Isle of Last Words.png"
+    },
+    "Lagoon of Whispers": {
+      "Name": "Lagoon of Whispers",
+      "Coords": "D12",
+      "Image": "island_images/Lagoon of Whispers.png"
+    },
+    "Liar's Backbone": {
+      "Name": "Liar's Backbone",
+      "Coords": "S11",
+      "Image": "island_images/Liar's Backbone.png"
+    },
+    "Lonely Isle": {
+      "Name": "Lonely Isle",
+      "Coords": "G8",
+      "Image": "island_images/Lonely Isle.png"
+    },
+    "Mutineer Rock": {
+      "Name": "Mutineer Rock",
+      "Coords": "N19",
+      "Image": "island_images/Mutineer Rock.png"
+    },
+    "Old Salts Atoll": {
+      "Name": "Old Salts Atoll",
+      "Coords": "F18",
+      "Image": "island_images/Old Salts Atoll.png"
+    },
+    "Paradise Spring": {
+      "Name": "Paradise Spring",
+      "Coords": "L17",
+      "Image": "island_images/Paradise Spring.png"
+    },
+    "Picaroon Palms": {
+      "Name": "Picaroon Palms",
+      "Coords": "I4",
+      "Image": "island_images/Picaroon Palms.png"
+    },
+    "Plunderer's Plight": {
+      "Name": "Plunderer's Plight",
+      "Coords": "Q6",
+      "Image": "island_images/Plunderer's Plight.png"
+    },
+    "Rapier Cay": {
+      "Name": "Rapier Cay",
+      "Coords": "D8",
+      "Image": "island_images/Rapier Cay.png"
+    },
+    "Rum Runner Isle": {
+      "Name": "Rum Runner Isle",
+      "Coords": "H9",
+      "Image": "island_images/Rum Runner Isle.png"
+    },
+    "Sailor's Bounty": {
+      "Name": "Sailor's Bounty",
+      "Coords": "C4",
+      "Image": "island_images/Sailor's Bounty.png"
+    },
+    "Salty Sands": {
+      "Name": "Salty Sands",
+      "Coords": "G4",
+      "Image": "island_images/Salty Sands.png"
+    },
+    "Sandy Shallows": {
+      "Name": "Sandy Shallows",
+      "Coords": "D5",
+      "Image": "island_images/Sandy Shallows.png"
+    },
+    "Scurvy Isley": {
+      "Name": "Scurvy Isley",
+      "Coords": "K4",
+      "Image": "island_images/Scurvy Isley.png"
+    },
+    "Sea Dog's Rest": {
+      "Name": "Sea Dog's Rest",
+      "Coords": "C11",
+      "Image": "island_images/Sea Dog's Rest.png"
+    },
+    "Shark Tooth Key": {
+      "Name": "Shark Tooth Key",
+      "Coords": "P13",
+      "Image": "island_images/Shark Tooth Key.png"
+    },
+    "Shiver Retreat": {
+      "Name": "Shiver Retreat",
+      "Coords": "Q11",
+      "Image": "island_images/Shiver Retreat.png"
+    },
+    "Snake Island": {
+      "Name": "Snake Island",
+      "Coords": "K16",
+      "Image": "island_images/Snake Island.png"
+    },
+    "Tri-Rock Isle": {
+      "Name": "Tri-Rock Isle",
+      "Coords": "R10",
+      "Image": "island_images/Tri-Rock Isle.png"
+    },
+    "Twin Groves": {
+      "Name": "Twin Groves",
+      "Coords": "H11",
+      "Image": "island_images/Twin Groves.png"
+    },
+    "Ashen Reaches": {
+      "Name": "Ashen Reaches",
+      "Coords": "V23",
+      "Image": "island_images/Ashen Reaches.png"
+    },
+    "Brimstone Rock": {
+      "Name": "Brimstone Rock",
+      "Coords": "Y18",
+      "Image": "island_images/Brimstone Rock.png"
+    },
+    "Cinder Islet": {
+      "Name": "Cinder Islet",
+      "Coords": "U14",
+      "Image": "island_images/Cinder Islet.png"
+    },
+    "Cursewater Shores": {
+      "Name": "Cursewater Shores",
+      "Coords": "Y13",
+      "Image": "island_images/Cursewater Shores.png"
+    },
+    "Fetcher's Rest": {
+      "Name": "Fetcher's Rest",
+      "Coords": "V12",
+      "Image": "island_images/Fetcher's Rest.png"
+    },
+    "Flame's End": {
+      "Name": "Flame's End",
+      "Coords": "V19",
+      "Image": "island_images/Flame's End.png"
+    },
+    "Flintlock Peninsula": {
+      "Name": "Flintlock Peninsula",
+      "Coords": "W14",
+      "Image": "island_images/Flintlock Peninsula.png"
+    },
+    "Glowstone Cay": {
+      "Name": "Glowstone Cay",
+      "Coords": "Z18",
+      "Image": "island_images/Glowstone Cay.png"
+    },
+    "Magma's Tide": {
+      "Name": "Magma's Tide",
+      "Coords": "Y20",
+      "Image": "island_images/Magma's Tide.png"
+    },
+    "Molten Sands Fortress": {
+      "Name": "Molten Sands Fortress",
+      "Coords": "Z11",
+      "Image": "island_images/Molten Sands Fortress.png"
+    },
+    "Morrow's Peak Outpost": {
+      "Name": "Morrow's Peak Outpost",
+      "Coords": "V17",
+      "Image": "island_images/Morrow's Peak Outpost.png"
+    },
+    "Roaring Sands": {
+      "Name": "Roaring Sands",
+      "Coords": "U21",
+      "Image": "island_images/Roaring Sands.png"
+    },
+    "Ruby's Fall": {
+      "Name": "Ruby's Fall",
+      "Coords": "Y16",
+      "Image": "island_images/Ruby's Fall.png"
+    },
+    "Scorched Pass": {
+      "Name": "Scorched Pass",
+      "Coords": "X11",
+      "Image": "island_images/Scorched Pass.png"
+    },
+    "The Devil's Thirst": {
+      "Name": "The Devil's Thirst",
+      "Coords": "W21",
+      "Image": "island_images/The Devil's Thirst.png"
+    },
+    "The Forsaken Brink": {
+      "Name": "The Forsaken Brink",
+      "Coords": "U16",
+      "Image": "island_images/The Forsaken Brink.png"
+    },
+    "Brian's Bazaar": {
+      "Name": "Brian's Bazaar",
+      "Coords": "Y12",
+      "Image": "island_images/Brian's Bazaar.png"
+    },
+    "Roaring Traders": {
+      "Name": "Roaring Traders",
+      "Coords": "U20",
+      "Image": "island_images/Roaring Traders.png"
+    },
+    "Stephen's Spoils": {
+      "Name": "Stephen's Spoils",
+      "Coords": "L15",
+      "Image": "island_images/Stephen's Spoils.png"
+    },
+    "The Finest Trading Post": {
+      "Name": "The Finest Trading Post",
+      "Coords": "F17",
+      "Image": "island_images/The Finest Trading Post.png"
+    },
+    "The North Star Seapost": {
+      "Name": "The North Star Seapost",
+      "Coords": "H10",
+      "Image": "island_images/The North Star Seapost.png"
+    },
+    "The Spoils of Plenty Store": {
+      "Name": "The Spoils of Plenty Store",
+      "Coords": "B7",
+      "Image": "island_images/The Spoils of Plenty Store.png"
+    },
+    "The Wild Treasure Store": {
+      "Name": "The Wild Treasure Store",
+      "Coords": "O4",
+      "Image": "island_images/The Wild Treasure Store.png"
+    },
+    "Three Paces East Seapost": {
+      "Name": "Three Paces East Seapost",
+      "Coords": "S9",
+      "Image": "island_images/Three Paces East Seapost.png"
+    }
+  }
