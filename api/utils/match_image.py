@@ -3,6 +3,16 @@ import numpy as np
 from PIL import Image
 import json
 import logging
+import pprint
+
+"""
+Set logging level
+"""
+logging.basicConfig(
+    level=logging.DEBUG,
+    format="%(asctime)s :%(levelname)s:%(funcName)s:%(lineno)d %(message)s",
+    datefmt="%d-%b-%y %H:%M:%S",
+)
 
 
 def match_island(input_image_path):
@@ -10,14 +20,14 @@ def match_island(input_image_path):
     islands = {}
 
     # Load the islands.json file into memory
-    with open('/Users/alvaroscheid/Documents/cds-snc/compass/api/utils/islands.json') as f:
+    with open('islands.json') as f:
         islands = json.load(f)
-        logging.debug(islands)
+        logging.debug(pprint.pprint(islands))
 
     # Iterate over the dictionary and load the images into memory from island_images folder
     island_images = {}
     for island in islands:
-        url = '/Users/alvaroscheid/Documents/cds-snc/compass/api/utils/' + islands[island]['Image']
+        url = islands[island]['Image']
         with open(url, 'rb') as url_response:
             image = np.asarray(bytearray(url_response.read()), dtype='uint8')
             image = cv2.imdecode(image, cv2.IMREAD_COLOR)
@@ -39,7 +49,7 @@ def match_island(input_image_path):
 
         # Compare the input image to the current island image using mean squared error
         score = cv2.matchTemplate(island_image, input_array, cv2.TM_SQDIFF_NORMED)
-        logging.debug(f"island_name: {island_name}, Score: {score}")
+        #logging.debug(f"island_name: {island_name}, Score: {score}")
         min_score, _, _, _ = cv2.minMaxLoc(score)
 
         # Update the best match if the current island image has a lower score (i.e., closer match)
@@ -50,10 +60,10 @@ def match_island(input_image_path):
     if best_match is None:
         raise ValueError('No matching island image found.')
 
-    print(best_match)
+    logging.debug(best_match)
     return best_match
 
 if __name__ == '__main__':
-    match_island('/Users/alvaroscheid/Documents/cds-snc/compass/api/tests/test1.png')
+    match_island('../tests/test1.png')
 
 
